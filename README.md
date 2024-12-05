@@ -3,7 +3,7 @@
 # Hi there, I'm [Your Name] 👋
 
 ![Profile views](https://gpvc.arturio.dev/mende237)
-![GitHub followers](https://img.shields.io/github/followers/[your-github-username]?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/mende237?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/[your-twitter-username]?style=social)
 
 ## 🚀 About Me
@@ -12,7 +12,7 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 - 🔭 I’m currently working on a research project: "Forced Alignment Algorithm for Labelling Poorly Endowed Languages"
 - 🌱 I’m currently learning advanced techniques in Machine Learning
 - 💬 Ask me about machine learning, forced alignment algorithms, and language processing
-- 📫 How to reach me: [contact info]
+- 📫 How to reach me: [dimitri.tchaheu@facsciences-uy1.cm](mailto:dimitri.tchaheu@facsciences-uy1.cm), [dimitrimende@gmail.com](mailto:dimitrimende@gmail.com)
 - ⚡ Fun fact: [interesting fact]
 
 ## 🛠️ My Skills
@@ -34,6 +34,6 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 - [Blog](https://[your-blog-url])
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mende237&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mende237&layout=compact)
 
