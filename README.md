@@ -12,7 +12,7 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 - 🌱 I’m currently learning advanced techniques in Machine Learning
 - 💬 Ask me about machine learning, forced alignment algorithms, and language processing
 - 📫 How to reach me: [dimitri.tchaheu@facsciences-uy1.cm](mailto:dimitri.tchaheu@facsciences-uy1.cm), [dimitrimende@gmail.com](mailto:dimitrimende@gmail.com)
-- ⚡ Fun fact: [interesting fact]
+- ⚡ Fun fact: I enjoy video games, sports, and bodybuilding!
 
 ## 🛠️ My Skills
 ### Programming Languages
