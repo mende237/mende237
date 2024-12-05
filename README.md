@@ -2,7 +2,7 @@
 
 # Hi there, I'm [Your Name] 👋
 
-![Profile views](https://gpvc.arturio.dev/[your-github-username])
+![Profile views](https://gpvc.arturio.dev/mende237)
 ![GitHub followers](https://img.shields.io/github/followers/[your-github-username]?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/[your-twitter-username]?style=social)
 
