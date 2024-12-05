@@ -1,10 +1,9 @@
 ![Header](https://img.shields.io/badge/GitHub-Profile-brightgreen)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm TCHAHEU TCHAHEU DIMITRI 👋
 
-![Profile views](https://gpvc.arturio.dev/mende237)
 ![GitHub followers](https://img.shields.io/github/followers/mende237?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/[your-twitter-username]?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dimitri237?style=social)
 
 ## 🚀 About Me
 I'm a Master's student at the University of Yaoundé I in Cameroon, specializing in Machine Learning.
@@ -31,7 +30,6 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])
 - [Twitter](https://twitter.com/[your-twitter-username])
-- [Blog](https://[your-blog-url])
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mende237&show_icons=true)
