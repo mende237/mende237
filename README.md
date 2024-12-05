@@ -28,7 +28,7 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])
+- [LinkedIn](https://www.linkedin.com/in/dimitri-tchaheu-tchaheu-11a57224a)
 - [Twitter](https://twitter.com/dimitri237)
 
 ## 📊 GitHub Stats
