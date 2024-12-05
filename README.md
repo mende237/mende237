@@ -29,7 +29,7 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])
-- [Twitter](https://twitter.com/[your-twitter-username])
+- [Twitter](https://twitter.com/dimitri237)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mende237&show_icons=true)
