@@ -12,7 +12,7 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 - 🌱 I’m currently learning advanced techniques in Machine Learning
 - 💬 Ask me about machine learning, forced alignment algorithms, and language processing
 - 📫 How to reach me: [dimitri.tchaheu@facsciences-uy1.cm](mailto:dimitri.tchaheu@facsciences-uy1.cm), [dimitrimende@gmail.com](mailto:dimitrimende@gmail.com)
-- ⚡ Fun fact: I enjoy video games, sports, and bodybuilding!
+- ⚡ Fun fact: I enjoy video games, sports, and calisthenics!
 
 ## 🛠️ My Skills
 ### Programming Languages
@@ -22,6 +22,10 @@ I'm a Master's student at the University of Yaoundé I in Cameroon, specializing
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
