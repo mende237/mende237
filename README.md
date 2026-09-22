@@ -33,7 +33,7 @@ I'm a Data Scientist, Software Developer, and IT Consultant based in Yaoundé, C
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🔬 Research & Publications
-- **Publication:** *Investigating and Improving Pedestrian Safety in an Urban Environment of a Low- or Middle-Income Country: A Case Study of Yaoundé, Cameroon* (Future Transportation, 2026)
+- **Publication:** *Investigating and Improving Pedestrian Safety in an Urban Environment of a Low- or Middle-Income Country: A Case Study of Yaoundé, Cameroon* (Future Transportation, 2024)
 - **Presentation:** *Triphone Hidden Markov Model for forced alignment of Nda' Nda' speech* (DASSA 2025)
 
 ## 🌐 Connect with me
