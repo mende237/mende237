@@ -12,7 +12,7 @@ I'm a Data Scientist, Software Developer, and IT Consultant based in Yaoundé, C
 - 🌱 I’m currently exploring personalized modeling of urban walking dynamics and advanced machine learning for African languages.
 - 📝 I recently co-authored a paper on pedestrian safety in *Future Transportation* and presented at the DASSA 2025 workshop.
 - 💬 Ask me about: Machine Learning (ASR, TTS, CNNs), urban mobility analysis, and web/mobile development.
-- 📫 How to reach me: [dimitri.tchaheu@facsciences-uy1.cm](mailto:dimitri.tchaheu@facsciences-uy1.cm) | [dimitrimende@gmail.com](mailto:dimitrimende@gmail.com)
+- 📫 How to reach me: [dimitritchaheutchaheu@gmail.com](mailto:dimitritchaheutchaheu@gmail.com) | [dimitri.tchaheu@facsciences-uy1.cm](mailto:dimitri.tchaheu@facsciences-uy1.cm) | [dimitrimende@gmail.com](mailto:dimitrimende@gmail.com)
 - ⚡ Fun fact: When I'm not coding, you can find me long-distance running (hitting a 4'55"/km pace!), doing calisthenics, or reading Descartes.
 
 ## 🛠️ My Skills
